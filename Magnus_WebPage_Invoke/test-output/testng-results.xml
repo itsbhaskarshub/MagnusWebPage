@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-05T19:14:50 IST" name="Default suite" finished-at="2022-12-05T19:14:51 IST" duration-ms="187">
+    <groups>
+    </groups>
+    <test started-at="2022-12-05T19:14:50 IST" name="Default test" finished-at="2022-12-05T19:14:51 IST" duration-ms="187">
+      <class name="com.testscenarios.NewTest">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:com.testscenarios.NewTest@4d0402b]" started-at="2022-12-05T19:14:50 IST" name="beforeSuite" finished-at="2022-12-05T19:14:50 IST" duration-ms="49" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.testscenarios.NewTest@4d0402b]" started-at="2022-12-05T19:14:50 IST" name="beforeTest" finished-at="2022-12-05T19:14:50 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.testscenarios.NewTest@4d0402b]" started-at="2022-12-05T19:14:51 IST" name="beforeClass" finished-at="2022-12-05T19:14:51 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.testscenarios.NewTest@4d0402b]" started-at="2022-12-05T19:14:51 IST" name="beforeMethod" finished-at="2022-12-05T19:14:51 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="Test()[pri:0, instance:com.testscenarios.NewTest@4d0402b]" started-at="2022-12-05T19:14:51 IST" name="Test" finished-at="2022-12-05T19:14:51 IST" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.testscenarios.NewTest@4d0402b]" started-at="2022-12-05T19:14:51 IST" name="afterMethod" finished-at="2022-12-05T19:14:51 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.testscenarios.NewTest@4d0402b]" started-at="2022-12-05T19:14:51 IST" name="afterClass" finished-at="2022-12-05T19:14:51 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.testscenarios.NewTest@4d0402b]" started-at="2022-12-05T19:14:51 IST" name="afterTest" finished-at="2022-12-05T19:14:51 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:com.testscenarios.NewTest@4d0402b]" started-at="2022-12-05T19:14:51 IST" name="afterSuite" finished-at="2022-12-05T19:14:51 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.testscenarios.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
